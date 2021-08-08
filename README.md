@@ -1,6 +1,10 @@
-### Hi there 👋
-🔭 I’m currently working on ...
-[EmberControl](https://github.com/ethanholz/EmberControl)
+### A little bit about me...
+🔭 I’m currently working on ...\
+[EmberControl](https://github.com/ethanholz/EmberControl)  
+
+🌱 I’m currently learning ...\
+Neovim Lua API 
+
 
 <!--
 **ethanholz/ethanholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
