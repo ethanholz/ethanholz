@@ -1,7 +1,7 @@
 ### A little bit about me...
 🔭 I’m currently working on ...\
 [nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Neovim/Lua rewrite of [vim-lastplace](https://github.com/farmergreg/vim-lastplace). \
-☕[EmberControl](https://github.com/ethanholz/EmberControl) - A project to control an Ember Smart Mug in Python.\
+☕[EmberControl](https://github.com/ethanholz/EmberControl) - A project to control an Ember Smart Mug in Python. 
 
 🌱 I’m currently learning ...\
 Neovim Lua API\
