@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning ...\
 Neovim Lua API\
-🦀 Rust\
+🦀 Rust
 
 👯 I’m looking to collaborate on Free and Open Source Software!\
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanholz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)\
