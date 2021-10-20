@@ -1,14 +1,14 @@
 ### A little bit about me...
 🔭 I’m currently working on ...\
 [nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Neovim/Lua rewrite of [vim-lastplace](https://github.com/farmergreg/vim-lastplace). \
-☕[EmberControl](https://github.com/ethanholz/EmberControl) - A project to control an Ember Smart Mug in Python.
+☕[EmberControl](https://github.com/ethanholz/EmberControl) - A project to control an Ember Smart Mug in Python.\
 
 🌱 I’m currently learning ...\
-Neovim Lua API
-🦀 Rust
+Neovim Lua API\
+🦀 Rust\
 
 👯 I’m looking to collaborate on Free and Open Source Software!\
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanholz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanholz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)\
 <!--
 **ethanholz/ethanholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
