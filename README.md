@@ -1,11 +1,13 @@
 ### A little bit about me...
 🔭 I’m currently working on ...
+* [glass-pebbles](https://github.com/ethanholz/glass-pebbles) - A sync client for Obsidian.md using IPFS and Go
 * [nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Neovim/Lua rewrite of [vim-lastplace](https://github.com/farmergreg/vim-lastplace). 
 * ☕[EmberControl](https://github.com/ethanholz/EmberControl) - A project to control an Ember Smart Mug in Python. 
 
 🌱 I’m currently learning ...
 * Neovim Lua API
 * 🦀 Rust
+* Golang
 
 👯 I’m looking to collaborate on Free and Open Source Software!<br/><br/><br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanholz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)\
