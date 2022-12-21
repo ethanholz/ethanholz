@@ -1,6 +1,6 @@
 ### A little bit about me...
 🔭 I’m currently working on ...
-* [glass-pebbles](https://github.com/ethanholz/glass-pebbles) - A sync client for Obsidian.md using IPFS and Go
+* [ruts](https://github.com/ethanholz/ruts) - A tmux sessionizer written in Rust
 * [nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Neovim/Lua rewrite of [vim-lastplace](https://github.com/farmergreg/vim-lastplace) 
 * [web-service-gin-example](https://github.com/ethanholz/web-service-gin-example) - A sandbox environment for practicing Go, gin, and data structures/algorithms
 * [home-assistant-updater](https://github.com/ethanholz/home-assistant-updater) - A simple REST API used for pulling docker containers when and update is available for Home Assistant
