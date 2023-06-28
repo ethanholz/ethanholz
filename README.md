@@ -1,8 +1,6 @@
 ### A little bit about me...
 🔭 I’m currently working on ...
-* [ruts](https://github.com/ethanholz/ruts) - A tmux sessionizer written in Rust
-* [nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Neovim/Lua rewrite of [vim-lastplace](https://github.com/farmergreg/vim-lastplace) 
-* [home-assistant-updater](https://github.com/ethanholz/home-assistant-updater) - A simple REST API used for pulling docker containers when and update is available for Home Assistant
+* [git-ce](https://github.com/ethanholz/git-ce) - A simple CLI for working with conventional commits
 
 🌱 I’m currently learning ...
 * Neovim Lua API
