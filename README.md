@@ -3,9 +3,8 @@
 * [git-ce](https://github.com/ethanholz/git-ce) - A simple CLI for working with conventional commits
 
 🌱 I’m currently learning ...
-* Neovim Lua API
-* 🦀 Rust
 * Golang
+* 🦀 Rust
 
 👯 I’m looking to collaborate on Free and Open Source Software!<br/><br/><br/>
 [![@ninja_tron's Holopin board](https://holopin.me/ninja_tron)](https://holopin.io/@ninja_tron)
