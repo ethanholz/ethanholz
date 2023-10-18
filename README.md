@@ -2,6 +2,7 @@
 🔭 I’m currently working on ...
 * [grlx](github.com/gogrlx/grlx) - Effective Fleet Configuration Management
 * [git-ce](https://github.com/ethanholz/git-ce) - A simple CLI for working with conventional commits
+* [sonic-pdb-parser](https://github.com/ethanholz/sonic-pdb-parser) - A simple Protein Data Bank (PDB) file parser written in Zig
 
 🌱 I’m currently learning ...
 * Golang
