@@ -4,9 +4,10 @@
 * [git-ce](https://github.com/ethanholz/git-ce) - A simple CLI for working with conventional commits
 * [sonic-pdb-parser](https://github.com/ethanholz/sonic-pdb-parser) - A simple Protein Data Bank (PDB) file parser written in Zig
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning/using ...
 * Golang
 * 🦀 Rust
+* ⚡ Zig
 
 👯 I’m looking to collaborate on Free and Open Source Software!<br/><br/><br/>
 [![@ninja_tron's Holopin board](https://holopin.me/ninja_tron)](https://holopin.io/@ninja_tron)
