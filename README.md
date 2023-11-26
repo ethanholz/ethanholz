@@ -9,6 +9,8 @@
 * 🦀 Rust
 * ⚡ Zig
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholz)](https://github.com/anuraghazra/github-readme-stats)
+
 👯 I’m looking to collaborate on Free and Open Source Software!<br/><br/><br/>
 [![@ninja_tron's Holopin board](https://holopin.me/ninja_tron)](https://holopin.io/@ninja_tron)
 <!--
