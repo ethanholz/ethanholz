@@ -5,6 +5,7 @@
 * [knuckles-rs](https://github.com/ethanholz/knuckles-rs) - A Protein Data Bank Parser written in Rust with Python Bindings using PyO3
 
 🌱 I’m currently learning/using ...
+* Gleam
 * Golang
 * 🦀 Rust
 * ⚡ Zig
