@@ -4,16 +4,19 @@
 * [sonic-pdb-parser](https://github.com/ethanholz/sonic-pdb-parser) - A simple Protein Data Bank (PDB) file parser written in Zig
 * [knuckles-rs](https://github.com/ethanholz/knuckles-rs) - A Protein Data Bank Parser written in Rust with Python Bindings using PyO3
 * [freeze.nvim](https://github.com/ethanholz/freeze.nvim) - A Neovim for using [freeze](https://github.com/charmbracelet/freeze)
-
+---
 🌱 I’m currently learning/using ...
 * Gleam
 * Golang
 * 🦀 Rust
 * ⚡ Zig
-
+---
+🎥 Come checkout my stream
+* [Twitch](https://twitch.tv/ninja_tron)
+* [YouTube](https://youtube.com/@ninja_tron)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholz&exclude_repo=config_files)](https://github.com/anuraghazra/github-readme-stats)
 
-👯 I’m looking to collaborate on Free and Open Source Software!<br/><br/><br/>
 [![@ninja_tron's Holopin board](https://holopin.me/ninja_tron)](https://holopin.io/@ninja_tron)
 <!--
 **ethanholz/ethanholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
