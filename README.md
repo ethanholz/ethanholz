@@ -3,7 +3,7 @@
 * [git-ce](https://github.com/ethanholz/git-ce) - A simple CLI for working with conventional commits
 * [sonic-pdb-parser](https://github.com/ethanholz/sonic-pdb-parser) - A simple Protein Data Bank (PDB) file parser written in Zig
 * [knuckles-rs](https://github.com/ethanholz/knuckles-rs) - A Protein Data Bank Parser written in Rust with Python Bindings using PyO3
-* [freeze.nvim](https://github.com/ethanholz/freeze.nvim) - A Neovim plugin for using [freeze](https://github.com/charmbracelet/freeze)
+* [gha-runner](https://github.com/omsf/gha-runner) - A Python library for building self-hosted GitHub Actions runner implementations
 ---
 🌱 I’m currently learning/using ...
 * Gleam
