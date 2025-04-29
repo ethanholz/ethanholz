@@ -15,7 +15,6 @@
 * [Twitch](https://twitch.tv/ninja_tron)
 * [YouTube](https://youtube.com/@ninja_tron)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholz&exclude_repo=config_files)](https://github.com/anuraghazra/github-readme-stats)
 
 [![@ninja_tron's Holopin board](https://holopin.me/ninja_tron)](https://holopin.io/@ninja_tron)
 <!--
